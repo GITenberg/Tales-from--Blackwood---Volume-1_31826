@@ -1,0 +1,31 @@
+_repo: Tales-from--Blackwood---Volume-1_31826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2010-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PR'
+tableOfContents: 'How we got up the Glenmutchkin Railway, and how we got out of it
+  / Professor Aytoun -- Vanderdecken''s message home; or the tenacity of natural affection
+  -- The floating beacon -- Colonna the painter: a tale of Italy and the arts -- Napoleon
+  / J.G. Lockhart -- A legend of Gibraltar / E.B. Hamley -- The iron shroud / William
+  Mudford.'
+title: Tales from "Blackwood," Volume 1
+url: http://www.gutenberg.org/ebooks/31826
